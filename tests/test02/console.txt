@@ -1,0 +1,1 @@
+python main.py -f tests/test02/test02.txt results/result02/output1.txt results/result02/output2.txt

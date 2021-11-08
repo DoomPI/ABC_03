@@ -1,0 +1,1 @@
+python main.py -n 20 results/result03/output1.txt results/result03/output2.txt

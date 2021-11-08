@@ -1,0 +1,81 @@
+Container stores 20 films:
+This is a film named "Moonlight". It was produced in 1203 year.
+The quotient equals 133.66666666666666
+It is a documentary. Length: 140 minutes.
+
+This is a film named "Hoop Dreams". It was produced in 1295 year.
+The quotient equals 117.72727272727273
+It is a gaming film. Director: Federico Fellini.
+
+This is a film named "Star wars". It was produced in 1039 year.
+The quotient equals 115.44444444444444
+It is a documentary. Length: 131 minutes.
+
+This is a film named "Rear Window". It was produced in 1342 year.
+The quotient equals 122.0
+It is a gaming film. Director: Charles Chaplin.
+
+This is a film named "Moonlight". It was produced in 1612 year.
+The quotient equals 179.11111111111111
+It is a documentary. Length: 131 minutes.
+
+This is a film named "Hoop Dreams". It was produced in 1407 year.
+The quotient equals 127.9090909090909
+It is a documentary. Length: 118 minutes.
+
+This is a film named "Hoop Dreams". It was produced in 1873 year.
+The quotient equals 170.27272727272728
+It is a cartoon. It was created by using plasticine method.
+
+This is a film named "Star wars". It was produced in 1385 year.
+The quotient equals 153.88888888888889
+It is a gaming film. Director: Quentin Tarantino.
+
+This is a film named "Moonlight". It was produced in 1417 year.
+The quotient equals 157.44444444444446
+It is a gaming film. Director: Charles Chaplin.
+
+This is a film named "Psycho". It was produced in 1433 year.
+The quotient equals 238.83333333333334
+It is a documentary. Length: 144 minutes.
+
+This is a film named "Vertigo". It was produced in 1464 year.
+The quotient equals 209.14285714285714
+It is a cartoon. It was created by using plasticine method.
+
+This is a film named "Harry Potter". It was produced in 1139 year.
+The quotient equals 94.91666666666667
+It is a gaming film. Director: Stanley Kubrick.
+
+This is a film named "Harry Potter". It was produced in 1712 year.
+The quotient equals 142.66666666666666
+It is a cartoon. It was created by using plasticine method.
+
+This is a film named "Pinocchio". It was produced in 1271 year.
+The quotient equals 141.22222222222223
+It is a documentary. Length: 131 minutes.
+
+This is a film named "Moonlight". It was produced in 1963 year.
+The quotient equals 218.11111111111111
+It is a cartoon. It was created by using drawn method.
+
+This is a film named "Pinocchio". It was produced in 1984 year.
+The quotient equals 220.44444444444446
+It is a documentary. Length: 152 minutes.
+
+This is a film named "Vertigo". It was produced in 1438 year.
+The quotient equals 205.42857142857142
+It is a gaming film. Director: Quentin Tarantino.
+
+This is a film named "Vertigo". It was produced in 1309 year.
+The quotient equals 187.0
+It is a gaming film. Director: Alfred Hitchcock.
+
+This is a film named "Harry Potter". It was produced in 1618 year.
+The quotient equals 134.83333333333334
+It is a documentary. Length: 148 minutes.
+
+This is a film named "Rear Window". It was produced in 1358 year.
+The quotient equals 123.45454545454545
+It is a cartoon. It was created by using drawn method.
+

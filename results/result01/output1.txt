@@ -1,0 +1,13 @@
+Container stores 3 films:
+This is a film named "Animals". It was produced in 1999 year.
+The quotient equals 285.57142857142856
+It is a cartoon. It was created by using drawn method.
+
+This is a film named "Birds". It was produced in 2002 year.
+The quotient equals 400.4
+It is a documentary. Length: 180 minutes.
+
+This is a film named "Pigs". It was produced in 2001 year.
+The quotient equals 500.25
+It is a gaming film. Director: Borovin.
+

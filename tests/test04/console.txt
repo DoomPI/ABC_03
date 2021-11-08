@@ -1,0 +1,1 @@
+python main.py -n 10000 results/result04/output1.txt results/result04/output2.txt
